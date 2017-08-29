@@ -403,7 +403,7 @@ figure figcaption p {
 #feature .icon {
   text-decoration: none;
   color: #fff;
-  background-color: #02bdd5;
+  background-color: #ffc6df;
   height: 100px;
   text-align: center;
   width: 100px;
@@ -414,7 +414,7 @@ figure figcaption p {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  text-shadow: #00a4ba 1px 1px, #00a4ba 2px 2px, #00a4ba 3px 3px, #00a4ba 4px 4px, #00a4ba 5px 5px, #00a4ba 6px 6px, #00a4ba 7px 7px, #00a4ba 8px 8px, #00a4ba 9px 9px, #00a4ba 10px 10px, #00a4ba 11px 11px, #00a4ba 12px 12px, #00a4ba 13px 13px, #00a4ba 14px 14px, #00a4ba 15px 15px, #00a4ba 16px 16px, #00a4ba 17px 17px, #00a4ba 18px 18px, #00a4ba 19px 19px, #00a4ba 20px 20px, #00a4ba 21px 21px, #00a4ba 22px 22px, #00a4ba 23px 23px, #00a4ba 24px 24px, #00a4ba 25px 25px, #00a4ba 26px 26px, #00a4ba 27px 27px, #00a4ba 28px 28px, #00a4ba 29px 29px, #00a4ba 30px 30px, #00a4ba 31px 31px, #00a4ba 32px 32px, #00a4ba 33px 33px, #00a4ba 34px 34px, #00a4ba 35px 35px, #00a4ba 36px 36px, #00a4ba 37px 37px, #00a4ba 38px 38px, #00a4ba 39px 39px, #00a4ba 40px 40px, #00a4ba 41px 41px, #00a4ba 42px 42px, #00a4ba 43px 43px, #00a4ba 44px 44px, #00a4ba 45px 45px, #00a4ba 46px 46px, #00a4ba 47px 47px, #00a4ba 48px 48px, #00a4ba 49px 49px, #00a4ba 50px 50px, #00a4ba 51px 51px, #00a4ba 52px 52px, #00a4ba 53px 53px, #00a4ba 54px 54px, #00a4ba 55px 55px, #00a4ba 56px 56px, #00a4ba 57px 57px, #00a4ba 58px 58px, #00a4ba 59px 59px, #00a4ba 60px 60px, #00a4ba 61px 61px, #00a4ba 62px 62px, #00a4ba 63px 63px, #00a4ba 64px 64px, #00a4ba 65px 65px, #00a4ba 66px 66px, #00a4ba 67px 67px, #00a4ba 68px 68px, #00a4ba 69px 69px, #00a4ba 70px 70px, #00a4ba 71px 71px, #00a4ba 72px 72px, #00a4ba 73px 73px, #00a4ba 74px 74px, #00a4ba 75px 75px, #00a4ba 76px 76px, #00a4ba 77px 77px, #00a4ba 78px 78px, #00a4ba 79px 79px, #00a4ba 80px 80px, #00a4ba 81px 81px, #00a4ba 82px 82px, #00a4ba 83px 83px, #00a4ba 84px 84px, #00a4ba 85px 85px, #00a4ba 86px 86px, #00a4ba 87px 87px, #00a4ba 88px 88px, #00a4ba 89px 89px, #00a4ba 90px 90px, #00a4ba 91px 91px, #00a4ba 92px 92px, #00a4ba 93px 93px, #00a4ba 94px 94px, #00a4ba 95px 95px, #00a4ba 96px 96px, #00a4ba 97px 97px, #00a4ba 98px 98px, #00a4ba 99px 99px, #00a4ba 100px 100px;
+  text-shadow: #ff89bd 1px 1px, #ff89bd 2px 2px, #ff89bd 3px 3px, #ff89bd 4px 4px, #ff89bd 5px 5px, #ff89bd 6px 6px, #ff89bd 7px 7px, #ff89bd 8px 8px, #ff89bd 9px 9px, #ff89bd 10px 10px, #ff89bd 11px 11px, #ff89bd 12px 12px, #ff89bd 13px 13px, #ff89bd 14px 14px, #ff89bd 15px 15px, #ff89bd 16px 16px, #ff89bd 17px 17px, #ff89bd 18px 18px, #ff89bd 19px 19px, #ff89bd 20px 20px, #ff89bd 21px 21px, #ff89bd 22px 22px, #ff89bd 23px 23px, #ff89bd 24px 24px, #ff89bd 25px 25px, #ff89bd 26px 26px, #ff89bd 27px 27px, #ff89bd 28px 28px, #ff89bd 29px 29px, #ff89bd 30px 30px, #ff89bd 31px 31px, #ff89bd 32px 32px, #ff89bd 33px 33px, #ff89bd 34px 34px, #ff89bd 35px 35px, #ff89bd 36px 36px, #ff89bd 37px 37px, #ff89bd 38px 38px, #ff89bd 39px 39px, #ff89bd 40px 40px, #ff89bd 41px 41px, #ff89bd 42px 42px, #ff89bd 43px 43px, #ff89bd 44px 44px, #ff89bd 45px 45px, #ff89bd 46px 46px, #ff89bd 47px 47px, #ff89bd 48px 48px, #ff89bd 49px 49px, #ff89bd 50px 50px, #ff89bd 51px 51px, #ff89bd 52px 52px, #ff89bd 53px 53px, #ff89bd 54px 54px, #ff89bd 55px 55px, #ff89bd 56px 56px, #ff89bd 57px 57px, #ff89bd 58px 58px, #ff89bd 59px 59px, #ff89bd 60px 60px, #ff89bd 61px 61px, #ff89bd 62px 62px, #ff89bd 63px 63px, #ff89bd 64px 64px, #ff89bd 65px 65px, #ff89bd 66px 66px, #ff89bd 67px 67px, #ff89bd 68px 68px, #ff89bd 69px 69px, #ff89bd 70px 70px, #ff89bd 71px 71px, #ff89bd 72px 72px, #ff89bd 73px 73px, #ff89bd 74px 74px, #ff89bd 75px 75px, #ff89bd 76px 76px, #ff89bd 77px 77px, #ff89bd 78px 78px, #ff89bd 79px 79px, #ff89bd 80px 80px, #ff89bd 81px 81px, #ff89bd 82px 82px, #ff89bd 83px 83px, #ff89bd 84px 84px, #ff89bd 85px 85px, #ff89bd 86px 86px, #ff89bd 87px 87px, #ff89bd 88px 88px, #ff89bd 89px 89px, #ff89bd 90px 90px, #ff89bd 91px 91px, #ff89bd 92px 92px, #ff89bd 93px 93px, #ff89bd 94px 94px, #ff89bd 95px 95px, #ff89bd 96px 96px, #ff89bd 97px 97px, #ff89bd 98px 98px, #ff89bd 99px 99px, #ff89bd 100px 100px;
 }
 #contact-section {
   padding: 90px 0;
@@ -1090,4 +1090,8 @@ article {
 width: 560px;
 height: 350px;
 
+}
+.pagseguro{
+  position: relative;
+  float:left;
 }
