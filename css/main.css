@@ -103,7 +103,7 @@ a:hover {
   background: transparent;
 }
 #top-bar.animated-header {
-  padding: 20px 0;
+  padding: 0;
   background: #ffffff;
   box-shadow: none;
 }
@@ -162,6 +162,7 @@ a:hover {
 #hero-area .block {
   position: relative;
   z-index: 999;
+  top:20px;
 }
 #hero-area h1 {
   font-size: 40px;
@@ -195,7 +196,7 @@ a:hover {
   border-radius: 0;
 }
 #call-to-action {
-  background: #02bdd5;
+  background: #f9e4b5;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
@@ -1094,4 +1095,11 @@ height: 350px;
 .pagseguro{
   position: relative;
   float:left;
+}
+.socialmediaicon ul li{
+  display:inline;
+}
+.socialmediaicon ul li a img{
+width: 50px;
+height:auto;
 }
