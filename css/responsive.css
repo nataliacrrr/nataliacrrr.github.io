@@ -147,6 +147,10 @@ px      68    160    252    344    436    */
     height: 282px;
   }
 .imgnat{
+  width: 90%;
+  height: auto;
+}
+.imgnat2{
   width: 70%;
   height: auto;
 }
