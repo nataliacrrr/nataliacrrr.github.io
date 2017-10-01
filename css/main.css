@@ -4,7 +4,6 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
-h1,
 h3,
 h4,
 h5,
@@ -23,7 +22,7 @@ ul {
 ul li {
   list-style: none;
 }
-h2 {
+h1, h2 {
   font-size: 26px;
   font-family: uni neue;
 }
