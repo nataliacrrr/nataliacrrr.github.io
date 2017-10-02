@@ -1119,3 +1119,23 @@ height:auto;
     background-color: #555555;
     color: white;
 }
+.emailimg {
+  position: relative;
+top:100px;
+ 
+} 
+.emailimg h1{
+float: right;
+right: 350px;
+top: 32px;
+}
+.emailimg img{
+width: 10%; 
+height: auto; 
+float: left;
+padding-bottom: 30px;
+left: 300px;
+position: relative;
+
+
+}
