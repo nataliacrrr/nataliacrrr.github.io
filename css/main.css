@@ -29,6 +29,15 @@ h1, h2 {
 a:hover {
   text-decoration: none;
 }
+
+@font-face {
+font-family: 'Nickainley';  /*Definindo a família*/
+src: local('Nickainley-Normal.otf'), url('Nickainley-Normal.otf') format('opentype'); 
+}
+@font-face {
+font-family: 'Uni neue';  /*Definindo a família*/
+src: local('uni-neue-light.otf'), url('uni-neue-light.otf') format('opentype'); 
+}
 .section-heading {
   text-align: center;
   margin-bottom: 65px;
