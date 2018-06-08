@@ -1,6 +1,6 @@
 Website for Natália Carreira, singer from Brasília - Brazil.
 
-Static website written by <a href="victorsilvasilva.github.io/me"> Victor Silva</a>.
+Static website written by <a href="victorsilvasilva.github.io/me"> Victor Silva</a> with Themefisher`s help.
 
 Frameworks used: 
 - JQuery
